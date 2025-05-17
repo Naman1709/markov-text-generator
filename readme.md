@@ -36,5 +36,21 @@ The app uses a basic Markov chain logic:
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/markov-text-generator.git
+   git clone https://github.com/Naman1709/markov-text-generator.git
    cd markov-text-generator
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Flask app:**
+
+   ```bash
+   python app.py
+   ```
+
+4. Open your browser and visit:  
+   `http://127.0.0.1:5000/`
