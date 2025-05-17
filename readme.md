@@ -26,7 +26,6 @@ The app uses a basic Markov chain logic:
 - Adjustable `n`-gram size (`n`)
 - User-provided seed text
 - Custom word count
-- Basic model caching to avoid retraining if `n` is unchanged
 - Styled UI with Bootstrap
 
 ---
